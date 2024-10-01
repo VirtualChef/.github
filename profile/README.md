@@ -1,3 +1,3 @@
 # Welcome to foodo!
 
-foodo is dedicated to revolutionizing the cooking experience by merging technology with culinary expertise. Our mission is to provide an innovative platform that empowers everyone to become a master chef in their own kitchen.
+"foodo” is your AI-powered cooking assistant, guiding you step-by-step to create delicious meals while connecting you with a community of food lovers. 
